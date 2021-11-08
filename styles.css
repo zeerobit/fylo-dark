@@ -112,6 +112,7 @@ body {
   min-height: 100vh;
   font-family: Open Sans, sans-serif;
   position: relative;
+  min-width: 100vw;
 }
 ol,
 ul {
